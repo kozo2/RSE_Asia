@@ -1,1 +1,17 @@
-
+---
+title: "RSEAA 2022 Unconference experience"
+description: |
+  It was an online event from 14-16 September 2022 at the Zoom Events.
+author:
+  - name: Kozo Nishida
+    url: https://github.com/kozo2/
+preview: preview.png
+date: 10-03-2022
+base_url: https://rse-asia.github.io/RSE_Asia/
+twitter:
+  creator: "@RSE_Asia"
+categories: [Research Software Engineering, Early Career Researcher, Mentorship]
+output:
+  distill::distill_article:
+    self_contained: false
+---
