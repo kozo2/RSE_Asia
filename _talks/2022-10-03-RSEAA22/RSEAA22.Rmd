@@ -1,7 +1,7 @@
 ---
 title: "RSEAA 2022 Unconference experience"
 description: |
-  It was the first RSE online conference in the Australia-Asia region. It was from 14-16 September 2022 at the Zoom Events.
+  It was the first RSE online conference in the Asia Australia region. It was from 14-16 September 2022 at the Zoom Events. Here I will tell you the impression I got from it.
 author:
   - name: Kozo Nishida
     url: https://github.com/kozo2/
@@ -16,7 +16,10 @@ output:
     self_contained: false
 ---
 
+## Introduction
 
+The first RSE conference in the Asia Australia region was held on 14 to 16 September 2022.
+It was held online using Zoom Events.
 
 ## Notes
 
