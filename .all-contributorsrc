@@ -1,0 +1,45 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "SaranjeetKaur",
+      "name": "Saranjeet Kaur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28556616?v=4",
+      "profile": "https://saranjeetkaur.github.io/About-Me/",
+      "contributions": [
+        "infra",
+        "content",
+        "doc",
+        "design",
+        "ideas",
+        "maintenance",
+        "projectManagement",
+        "review",
+        "talk",
+        "video"
+      ]
+    },
+    {
+      "login": "annefou",
+      "name": "Anne Fouilloux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8168508?v=4",
+      "profile": "http://www.mn.uio.no/geo/english/people/adm/annefou/",
+      "contributions": [
+        "mentoring",
+        "review",
+        "question"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "RSE_Asia",
+  "projectOwner": "rse-asia"
+}
