@@ -35,7 +35,14 @@ The recordings of the keynotes and panel discussion can be watched on the follow
 
 ## Accessibility and Inclusivity
 
+The accessibility of the conference was excellent.
+I'm Japanese and my English isn't very good.
+But the conference has Zoom live transcription, which made it easy for me to understand what was being said.
+
+To learn more about the accessibility, see [Liz Hare](https://twitter.com/DogGeneticsLLC)'s [high-level accessibility report for the conference](https://rse-aunz.github.io/RSEAUNZAccessibility.html).
+
 ## The Keynotes
+
 
 ## The unconference themes
 
